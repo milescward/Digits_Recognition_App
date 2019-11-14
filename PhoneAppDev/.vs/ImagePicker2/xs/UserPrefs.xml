@@ -1,0 +1,26 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{32845E6F-1FA8-4FE1-8E6B-EFEEE60C64BD}|Default">
+  <MonoDevelop.Ide.ItemProperties.ImagePicker2.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9C67DF23-F3F3-4BE7-BD4E-9E638AEF1C14" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ImagePicker2/MainPage.xaml.cs" Line="13" Column="2" />
+      <File FileName="ImagePicker2/MainPage.xaml" />
+      <File FileName="ImagePicker2/Services/IPhotoPickerService.cs" />
+      <File FileName="ImagePicker2.iOS/Services/PhotoPickerService.cs" Line="1" Column="1" />
+      <File FileName="ImagePicker2/App.xaml.cs" />
+      <File FileName="ImagePicker2.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ImagePicker2" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

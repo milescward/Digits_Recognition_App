@@ -1,0 +1,13 @@
+/Users/milesward/Projects/ImagePicker2/ImagePicker2/obj/Debug/netstandard2.0/ImagePicker2.csprojAssemblyReference.cache
+/Users/milesward/Projects/ImagePicker2/ImagePicker2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/milesward/Projects/ImagePicker2/ImagePicker2/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/milesward/Projects/ImagePicker2/ImagePicker2/obj/Debug/netstandard2.0/ImagePicker2.AssemblyInfoInputs.cache
+/Users/milesward/Projects/ImagePicker2/ImagePicker2/obj/Debug/netstandard2.0/ImagePicker2.AssemblyInfo.cs
+/Users/milesward/Projects/ImagePicker2/ImagePicker2/bin/Debug/netstandard2.0/ImagePicker2.deps.json
+/Users/milesward/Projects/ImagePicker2/ImagePicker2/bin/Debug/netstandard2.0/ImagePicker2.dll
+/Users/milesward/Projects/ImagePicker2/ImagePicker2/bin/Debug/netstandard2.0/ref/ImagePicker2.dll
+/Users/milesward/Projects/ImagePicker2/ImagePicker2/bin/Debug/netstandard2.0/ImagePicker2.pdb
+/Users/milesward/Projects/ImagePicker2/ImagePicker2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/milesward/Projects/ImagePicker2/ImagePicker2/obj/Debug/netstandard2.0/ImagePicker2.dll
+/Users/milesward/Projects/ImagePicker2/ImagePicker2/obj/Debug/netstandard2.0/ref/ImagePicker2.dll
+/Users/milesward/Projects/ImagePicker2/ImagePicker2/obj/Debug/netstandard2.0/ImagePicker2.pdb
